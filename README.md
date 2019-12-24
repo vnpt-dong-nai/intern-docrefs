@@ -2,7 +2,7 @@
 Danh sách tài liệu tham khảo cho các bạn thực tập
 
 # Fullstack platform:
-1. METEOR:
+##1. METEOR:
   - Tất cả trong 1.
   - Front end có thể dùng Blaze, React, Angular.
   - Backend tích hợp sẵn MongoDB.
@@ -12,7 +12,7 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
     + https://www.meteor.com/tutorials
 
 # Web front end
-1. VueJS:
+##1. VueJS:
   - Homepage: https://vuejs.org/
   - Examples:
     + https://vuejs.org/v2/examples/todomvc.html
