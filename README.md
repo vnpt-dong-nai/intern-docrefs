@@ -2,7 +2,7 @@
 Danh sách tài liệu tham khảo cho các bạn thực tập
 
 # Fullstack platform:
-##1. METEOR:
+### 1. METEOR:
   - Tất cả trong 1.
   - Front end có thể dùng Blaze, React, Angular.
   - Backend tích hợp sẵn MongoDB.
@@ -12,48 +12,48 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
     + https://www.meteor.com/tutorials
 
 # Web front end
-##1. VueJS:
+### 1. VueJS:
   - Homepage: https://vuejs.org/
   - Examples:
     + https://vuejs.org/v2/examples/todomvc.html
 
-2. React:
+### 2. React:
   - Homepage: https://reactjs.org/
   - Examples:
     + https://reactjs.org/tutorial/tutorial.html
     
-3. Angular:
+### 3. Angular:
   - Homepage: https://angular.io/
   - Examples:
     + https://angular.io/tutorial
     
 # CSS
-1. Bootstrap:
+### 1. Bootstrap:
   - Homepage: https://getbootstrap.com/
   - Examples:
     + https://getbootstrap.com/docs/4.4/examples/
 
 # Backend API
-1. Flask:
+### 1. Flask:
   - Viết bằng Python (https://www.python.org/)
   - Homepage: https://www.palletsprojects.com/p/flask/
 
-2. NancyFX:
+### 2. NancyFX:
   - Framework làm API với Visual Studio.
   - Cài đặt qua nuget của Visual Studio.
   - Homepage: http://nancyfx.org/
 
 # Database:
-1. SQL Server:
+### 1. SQL Server:
   - Google: Học SQL Server
   
-2. Oracle Server:
+### 2. Oracle Server:
   - Google: Học Oracle Server
 
-3. MongoDB:
+### 3. MongoDB:
   - Homepage: https://www.mongodb.com/
 
-5. Elastic Stack:
+### 5. Elastic Stack:
   - Homepage: https://www.elastic.co/
   - ElasticSearch:
       + Dùng để lưu trữ, tìm kiếm, phân tích dữ liệu.
@@ -66,7 +66,7 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
       + Link: https://www.elastic.co/products/kibana
       
 # Android:
-1. Jetpack:
+### 1. Jetpack:
     - Dùng để viết app thuần android.
     - Bộ thư viện, công cụ chuẩn của google.    
     - Homepage: https://developer.android.com/jetpack
@@ -78,7 +78,7 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
       + Navigation: https://developer.android.com/guide/navigation/
         - Google: navigation với android jetpack
         
-2. Flutter:
+### 2. Flutter:
     - Dùng để viết app dạng web chạy được trên Android và iOS.
     - Homepage: https://flutter.dev/
     
