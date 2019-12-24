@@ -3,7 +3,7 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
 
 # Fullstack platform:
 ### 1. METEOR:
-  - Tất cả trong 1.
+  - Tất cả trong 1 project, dùng để phát triển nhanh 1 web app.
   - Front end có thể dùng Blaze, React, Angular.
   - Backend tích hợp sẵn MongoDB.
   
@@ -13,32 +13,38 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
 
 # Web front end
 ### 1. VueJS:
+  - Dễ dùng, hỗ trợ data binding, component.
   - Homepage: https://vuejs.org/
   - Examples:
     + https://vuejs.org/v2/examples/todomvc.html
 
 ### 2. React:
+  - Chạy nhanh, hỗ trợ component.
   - Homepage: https://reactjs.org/
   - Examples:
     + https://reactjs.org/tutorial/tutorial.html
     
 ### 3. Angular:
+  - Thích hợp dùng cho app bự, hỗ trợ component.
   - Homepage: https://angular.io/
   - Examples:
     + https://angular.io/tutorial
     
 # CSS
 ### 1. Bootstrap:
+  - Đơn giản dễ dùng.
   - Homepage: https://getbootstrap.com/
   - Examples:
     + https://getbootstrap.com/docs/4.4/examples/
 
 # Backend API
 ### 1. Flask:
+  - Đơn giản dễ dùng.
   - Viết bằng Python (https://www.python.org/)
   - Homepage: https://www.palletsprojects.com/p/flask/
 
 ### 2. NancyFX:
+  - Đơn giản dễ dùng.
   - Framework làm API với Visual Studio.
   - Cài đặt qua nuget của Visual Studio.
   - Homepage: http://nancyfx.org/
@@ -51,6 +57,7 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
   - Google: Học Oracle Server
 
 ### 3. MongoDB:
+  - Được dùng làm DB mặc định cho Meteor.
   - Homepage: https://www.mongodb.com/
 
 ### 5. Elastic Stack:
@@ -78,7 +85,11 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
       + Navigation: https://developer.android.com/guide/navigation/
         - Google: navigation với android jetpack
         
-### 2. Flutter:
+### 2. Flutter (Google):
     - Dùng để viết app dạng web chạy được trên Android và iOS.
     - Homepage: https://flutter.dev/
+    
+### 3. React Native (Facebook):
+    - Dùng để viết app dạng web chạy được trên Android và iOS.
+    - Homepage: https://facebook.github.io/react-native/
     
