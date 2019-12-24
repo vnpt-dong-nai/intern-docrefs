@@ -64,3 +64,21 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
   - Kibana:
       + Dùng để hiển thị các dữ liệu trên elastic search dưới dạng đồ họa ( dashboard )
       + Link: https://www.elastic.co/products/kibana
+      
+# Android:
+1. Jetpack:
+    - Dùng để viết app thuần android.
+    - Bộ thư viện, công cụ chuẩn của google.    
+    - Homepage: https://developer.android.com/jetpack
+    - Cần học trước tiên các thành phần sau:
+      + Data Binding: https://developer.android.com/topic/libraries/data-binding/
+        - Google: android Data Binding la gi
+      + Room: https://developer.android.com/topic/libraries/architecture/room
+        - Google: lưu trữ với android Room
+      + Navigation: https://developer.android.com/guide/navigation/
+        - Google: navigation với android jetpack
+        
+2. Flutter:
+    - Dùng để viết app dạng web chạy được trên Android và iOS.
+    - Homepage: https://flutter.dev/
+    
