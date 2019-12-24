@@ -35,14 +35,13 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
 
 # Backend API
 1. Flask:
-  - Homepage: https://getbootstrap.com/
-  - Examples:
-    + https://getbootstrap.com/docs/4.4/examples/
+  - Viết bằng Python (https://www.python.org/)
+  - Homepage: https://www.palletsprojects.com/p/flask/
 
 2. NancyFX:
-  - Homepage: https://getbootstrap.com/
-  - Examples:
-    + https://getbootstrap.com/docs/4.4/examples/
+  - Framework làm API với Visual Studio.
+  - Cài đặt qua nuget của Visual Studio.
+  - Homepage: http://nancyfx.org/
 
 # Database:
 1. SQL Server:
