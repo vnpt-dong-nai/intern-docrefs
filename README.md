@@ -38,17 +38,21 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
     + https://getbootstrap.com/docs/4.4/examples/
 
 # Backend API
-### 1. Flask:
+### 1. FastAPI:
   - Đơn giản dễ dùng.
   - Viết bằng Python (https://www.python.org/)
-  - Homepage: https://www.palletsprojects.com/p/flask/
-
-### 2. NancyFX:
-  - Đơn giản dễ dùng.
+  - Homepage: https://fastapi.tiangolo.com/
+  
+### 2. ASP.Net Core:
+  - Fast, multiplatform.
   - Framework làm API với Visual Studio.
   - Cài đặt qua nuget của Visual Studio.
-  - Homepage: http://nancyfx.org/
+  - Homepage: https://learn.microsoft.com/vi-vn/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
 
+## 3. Springboot:
+  - Java
+  - Homepage: https://spring.io/projects/spring-boot
+  
 # Database:
 ### 1. SQL Server:
   - Google: Học SQL Server
@@ -72,24 +76,8 @@ Danh sách tài liệu tham khảo cho các bạn thực tập
       + Dùng để hiển thị các dữ liệu trên elastic search dưới dạng đồ họa ( dashboard )
       + Link: https://www.elastic.co/products/kibana
       
-# Android:
-### 1. Jetpack:
-    - Dùng để viết app thuần android.
-    - Bộ thư viện, công cụ chuẩn của google.    
-    - Homepage: https://developer.android.com/jetpack
-    - Cần học trước tiên các thành phần sau:
-      + Data Binding: https://developer.android.com/topic/libraries/data-binding/
-        - Google: android Data Binding la gi
-      + Room: https://developer.android.com/topic/libraries/architecture/room
-        - Google: lưu trữ với android Room
-      + Navigation: https://developer.android.com/guide/navigation/
-        - Google: navigation với android jetpack
-        
-### 2. Flutter (Google):
-    - Dùng để viết app dạng web chạy được trên Android và iOS.
+# Android & iOS:
+### 1. Flutter (Google):
+    - Dùng để viết app chạy được trên Android, iOS, Web.
     - Homepage: https://flutter.dev/
-    
-### 3. React Native (Facebook):
-    - Dùng để viết app dạng web chạy được trên Android và iOS.
-    - Homepage: https://facebook.github.io/react-native/
     
